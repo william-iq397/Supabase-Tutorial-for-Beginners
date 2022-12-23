@@ -4,6 +4,7 @@ REACT_APP_SUPABASE_URL=https://zihqrrcjwprhfkfdduff.supabase.co
 /node_modules
 /.pnp
 .pnp.js
+.NODE_ENV
 
 # supabase
 **/supabase/.branches
