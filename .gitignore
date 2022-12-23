@@ -10,6 +10,16 @@ REACT_APP_SUPABASE_URL=https://zihqrrcjwprhfkfdduff.supabase.co
 **/supabase/.branches
 **/supabase/.temp
 
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+sw.*
+
 .vercel
 
 # testing
